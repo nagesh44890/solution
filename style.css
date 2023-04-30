@@ -1,0 +1,13 @@
+#block{
+       height: 200px;
+       width: 1200pxpx;
+       background-color:yellow;
+}
+
+#search{
+    margin: 0 auto;
+    display: block;
+    top: 50%;
+}
+
+
